@@ -18,4 +18,4 @@ jobs:
           script: |
             cd urban-brew-cafe
             git pull
-            sudo cp index.html /var/www/html/index.htmlL
+            cp index.html /var/www/html/index.html
